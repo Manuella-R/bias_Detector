@@ -1,4 +1,4 @@
-# 📰 News Bias Detector
+#  News Bias Detector
 
 A fine-tuned RoBERTa model for detecting bias in news sentences. Achieves **82% accuracy** and **0.81 macro F1** on a held-out test set, significantly outperforming a zero-shot BART-large-mnli baseline (64% accuracy).
 
